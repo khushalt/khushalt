@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing football, trekking and sometimes learning coding
 - 🌱 I’m currently learning low level design
 - 💞️ I’m looking to collaborate on frappe and erpnext
-- 📫 How to reach me ...
+- 📫 can reach me at khushalt5@gmail.com
 
 <!---
 khushalt/khushalt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
