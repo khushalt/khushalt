@@ -1,4 +1,4 @@
-- 👋 Hi, I’m khushalt
+- 👋 Hi, I’m khushal
 - 👀 I’m interested in playing football, trekking and sometimes learning coding
 - 🌱 I’m currently learning low level design
 - 💞️ I’m looking to collaborate on frappe and erpnext
